@@ -1,3 +1,3 @@
 # Visual Code Studio
 
-練習中
+webサイトで編集中
